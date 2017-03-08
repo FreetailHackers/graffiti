@@ -1,19 +1,9 @@
 {
-  "name": "graffiti",
-  "version": "1.0.0",
-  "description": "hacktx virtual graffiti wall",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FreetailHackers/graffiti.git"
-  },
-  "author": "rainier ababao <rainier@utexas.edu>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FreetailHackers/graffiti/issues"
-  },
-  "homepage": "https://github.com/FreetailHackers/graffiti#readme"
+   "name": "MiniDoodle",
+   "description": "Collaborative drawing canvas",
+   "author": "Code-and.Coffee",
+   "dependencies" : {
+      "express": "4.x",
+      "socket.io": "*"
+   }
 }
